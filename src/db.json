@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post ",
+      "body": "Some post body for the post."
+    }
+  ],
+
+  "users": [
+    { "id": 1, "name": "Eugene", "age": 31 },
+    { "id": 2, "name": "Vladislav", "age": 0.5 },
+    { "id": 3, "name": "Aleksandra", "age": 30 },
+    { "id": 4, "name": "Crip Bill", "age": 44 }
+  ]
+}
